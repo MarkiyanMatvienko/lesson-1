@@ -1,6 +1,13 @@
+body
 .center{
     text-align: center;
 }
-.blue{
-    color: blue
+.blue, a{
+    color: #0691d7
+}
+.yellow{
+    color: #ffa400;
+}
+.left{
+    text-align: left;
 }
