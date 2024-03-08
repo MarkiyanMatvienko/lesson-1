@@ -1,4 +1,8 @@
-body
+body{
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 21px;
+    line-height: 1.57;
+}
 .center{
     text-align: center;
 }
@@ -8,6 +12,27 @@ body
 .yellow{
     color: #ffa400;
 }
+.big-font{
+    font-size: 36px;
+}
 .left{
     text-align: left;
+}
+.italik{
+    font-style: italic;
+}
+.recept {
+    width: 70%;
+    margin: auto;
+}
+.main-title{
+    color: white;
+    height: 512px;
+    background-color: #0691d7;
+    background: url(./assets/images/Malinoviy_tort-morozivo_600x300_61cc2028604e5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    font-size: 48px;
+    letter-spacing: 5px;
 }
